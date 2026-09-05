@@ -5,4 +5,4 @@ A simple browser-based tool to calculate resistor values from colour bands — s
 
 🔗 Live tool: https://electrohub2026.blogspot.com/p/resistor-colour-code-calculator.html
 
-Built for [ElectroHub](https://electrohub2026.blogspot.com/) — electronics tutorials from basics to advanced.
+Built for [ElectroHub](https://electrohub2026.blogspot.com/) — Electronics from basics to advanced.
